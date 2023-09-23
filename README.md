@@ -1,4 +1,4 @@
-This project was built using these technologies.
+Este proyecto fue construido utilizando estas tecnologías.
 
 - React.js
 - Node.js
@@ -7,29 +7,29 @@ This project was built using these technologies.
 - VsCode
 - Vercel
 
-## Features
+## Características
 
-**📖 Multi-Page Layout**
+**📖 Diseño de varias páginas**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨Diseñado con React-Bootstrap y Css con colores fáciles de personalizar**
 
-**📱 Fully Responsive**
+**📱Totalmente receptivo**
 
-## Getting Started
+## Pasos para empezar
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clona este repositorio. Necesitará `node.js` y `git` instalados globalmente en su máquina.
 
-## 🛠 Installation and Setup Instructions
+## 🛠 Instrucciones de instalación y configuración
 
-1. Installation: `npm install`
+1. Instalación: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. En el directorio del proyecto, puede ejecutar: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Ejecuta la aplicación en modo de desarrollo.\
+Abra [http://localhost:3000](http://localhost:3000) para verlo en el navegador.
+La página se recargará si realiza modificaciones.
 
-## Usage Instructions
+## Instrucciones de uso
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Abra la carpeta del proyecto y navegue hasta`/src/components/`. <br/>
+Encontrará todos los componentes utilizados y podrá editar su información en consecuencia.
